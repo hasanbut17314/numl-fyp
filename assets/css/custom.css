@@ -8,3 +8,18 @@
 .std_details p {
     margin-bottom: 10px;
 }
+
+.nav-cont1:hover .arrow-nav1 {
+    transition: all 0.4s ease;
+    transform: translateX(30px);
+}
+
+.nav-cont2:hover .arrow-nav2 {
+    transition: all 0.4s ease;
+    transform: translateX(30px);
+}
+
+.nav-cont3:hover .arrow-nav3 {
+    transition: all 0.4s ease;
+    transform: translateX(30px);
+}
