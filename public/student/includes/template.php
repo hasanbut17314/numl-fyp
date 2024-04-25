@@ -27,8 +27,8 @@
                 <button class="ms-2" type="submit" name="std_logout_btn">Logout</button>
             </form>
         </aside>
-        <div class="h-screen md:w-[85%] bg-[#E6E6E6] px-10 py-6">
-            <div class="flex bg-white px-3 py-5 rounded-3xl gap-x-4">
+        <div class="h-screen md:w-[85%] bg-[#E6E6E6] px-10 py-5 relative">
+            <div class="flex bg-white px-3 py-5 rounded-3xl gap-x-4 mb-2">
                 <div>
                     <img src="../../assets/images/Rectangle 1.jpg" class="h-[138px]">
                 </div>
