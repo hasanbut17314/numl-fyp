@@ -30,7 +30,7 @@
         <input type="text" name="name" class="bg-[#D9D9D9] py-3 px-4 outline-none text-xs">
         <input type="text" name="employee_id" placeholder="e.g numl-s20-86651" class="bg-[#D9D9D9] py-3 px-4 outline-none text-xs">
         <input type="text" name="branch" placeholder="e.g Software Engineering" class="bg-[#D9D9D9] py-3 px-4 outline-none text-xs">
-        <input type="text" name="email" class="bg-[#D9D9D9] py-3 px-4 outline-none text-xs">
+        <input type="email" name="email" class="bg-[#D9D9D9] py-3 px-4 outline-none text-xs">
     </div>
     <div class="hedings">
         <p class="md:mt-2">Phone No:</p>
